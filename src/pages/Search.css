@@ -1,0 +1,7 @@
+
+.searchpage_products {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 10px;
+}
