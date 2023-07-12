@@ -31,7 +31,7 @@ function Search() {
         api_key: process.env.SEARCH_API_KEY,
       },
       headers: {
-        "X-RapidAPI-Key": "aab6896f79msh079f5e99cbba5afp1fe8edjsn744d4b9edea2",
+        "X-RapidAPI-Key": "xxxxxxxxxxxxxxxxx",
         "X-RapidAPI-Host": "amazon-data-scraper124.p.rapidapi.com",
       },
     };
